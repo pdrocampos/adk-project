@@ -2,4 +2,5 @@
 .vscode 
 .venv
 data/processed/dados_fgts_tratados.csv
+__pycache__
 
