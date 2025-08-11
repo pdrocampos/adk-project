@@ -3,3 +3,5 @@
 .venv
 data/processed/dados_fgts_tratados.csv
 data/raw_data/dados_abertos_FGTS_ANALITICO.csv
+data/processed/dados_fgts_tratados.csv
+data/raw_data/dados_abertos_FGTS_ANALITICO.csv
