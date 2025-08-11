@@ -21,11 +21,6 @@ Neste caso, o foco foi o **Programa Minha Casa, Minha Vida** (tema Governo), com
 ### 🎯 Objetivo Principal
 Desenvolver um **modelo de regressão** para prever o valor de financiamento habitacional utilizando dados históricos disponibilizados publicamente.
 
-### ❓ Perguntas-Chave
-- Quais regiões têm maior eficiência na aplicação dos recursos?
-- Como evoluiu a distribuição de unidades ao longo do tempo?
-- Existe correlação entre variáveis socioeconômicas e a demanda por financiamento?
-
 ---
 
 ## 2️⃣ Estrutura de Pastas
